@@ -46,7 +46,7 @@ Este projeto é uma **calculadora gráfica** desenvolvida em Python utilizando a
 ---
 
 ## 🧑‍💻 **Autor**
-Este projeto foi desenvolvido por **[Seu Nome]** com o objetivo de praticar e aprender **Python e interfaces gráficas (GUI)**.
+Este projeto foi desenvolvido por **João Paulo** com o objetivo de praticar e aprender **Python e interfaces gráficas (GUI)**.
 
 Se tiver dúvidas, sugestões ou melhorias, sinta-se à vontade para contribuir! 🚀
 
